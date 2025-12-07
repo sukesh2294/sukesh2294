@@ -4,13 +4,23 @@
 
 <h1 align="center">Hi 👋, I'm Sukesh kumar!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukesh2294&show_icons=true&locale=en&theme=vue-dark&count_private=true&hide_border=true" alt="sukesh2294's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukesh2294&locale=en&theme=vue-dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=sukesh2294&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sukesh2294&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/sukesh2294" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @sukesh2294" /></a>
+</p>
+
 <h3 align="center">Web Developer , UI/UX & Grapgics Designer</h3>
 
 <h3 align="left">More About Me:</h3>
 
 - 🌱 I’m currently learning: **Machine Learning (ML) & Data Science**
 - 🔭 I’m currently working on: **Intern @IndiTronixAi Labs**
-- 💬 Ask me about: **Web Development**
+- 💬 Ask me about: **Web Development, UI/UX & Graphics Design**
 - 📫 How to reach me: [sukesh2294@gmail.com](mailto:sukesh2294@gmail.com)
 - 👨‍💻 **[My Portfolio](https://sukesh2294)**
 - 📄 **[My Resume](https://googledriveresume_resume_will be uploaded)**
@@ -58,13 +68,3 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukesh2294&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="sukesh2294's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukesh2294&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=sukesh2294&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukesh2294&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/sukesh2294" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @sukesh2294" /></a>
-</p>
