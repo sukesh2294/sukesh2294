@@ -8,7 +8,7 @@
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **I am currently learning Machine Learning (ML) & Data Science**
+- 🌱 I’m currently learning: **Machine Learning (ML) & Data Science**
 - 🔭 I’m currently working on: **Intern @IndiTronixAi Labs**
 - 💬 Ask me about: **Web Development**
 - 📫 How to reach me: [sukesh2294@gmail.com](mailto:sukesh2294@gmail.com)
