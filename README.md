@@ -22,8 +22,8 @@
 - 🔭 I’m currently working on: **Intern @IndiTronixAi Labs**
 - 💬 Ask me about: **Web Development, UI/UX & Graphics Design**
 - 📫 How to reach me: [sukesh2294@gmail.com](mailto:sukesh2294@gmail.com)
-- 👨‍💻 **[My Portfolio](https://sukesh2294)**
-- 📄 **[My Resume](https://googledriveresume_resume_will be uploaded)**
+- 👨‍💻 **[My Portfolio](https://sukeshportfolio.netlify.app/)**
+- 📄 **[My Resume](https://googledriveresume_resume)**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
